@@ -31,6 +31,12 @@ export default function Header() {
             >
               Contact
             </Link>
+            <Link
+              href="/landing"
+              className="text-gray-50 hover:text-gray-100 transition-colors"
+            >
+              Landing
+            </Link>
           </nav>
         </div>
       </div>
